@@ -18,27 +18,36 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  Outfit picker and laundry tracker
+  / Recommended outfit and checkout 
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
-
+  Users that has a extensive closet. Or a clothing store that can recommend outfits for consumers
+  
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
-
+  A user based app that allows for input of cloths that they have or bought. This is a collection which represents their closet or inventory. Then in the base app the ability to pick a certain range of options like # of pieces of clothing or even a specific color and will find a sutable outfit based on relationship of color or fashion.
+  
 ## Problem ##
   > Describe the problem your product solves.
+  Allows for a easier way for users to pick out clothing, either for wear or for checkout, that allows the comfort of not having to stress over what to wear for that day .
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  The application will keep track of your closet in a database or inventory and allow for cloths that are used to be put into a laundry list. When pciking a parameter for a outfit choice the app is also able to decide on what to provide back by a set of algorithms that think of what is the best match to the parameters set.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  Fill the database with base data and start with the mininmal product for input. 
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  Quick and easy way to keep track of what is in my closet and what is in my laundry list. Also it helps me easily pick out my outfit per day and I can even disregard some choices.
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+Thanks please wait for further News.
